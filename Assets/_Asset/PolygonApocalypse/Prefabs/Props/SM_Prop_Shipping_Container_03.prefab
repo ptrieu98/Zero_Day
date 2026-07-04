@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4295198456053028}
   - component: {fileID: 33599518870954164}
   - component: {fileID: 23140723479513884}
+  - component: {fileID: 38422219877434237}
   m_Layer: 0
   m_Name: SM_Prop_Shipping_Container_03
   m_TagString: Untagged
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &38422219877434237
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627379657644062}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.4516697, y: 2.59, z: 6.1909523}
+  m_Center: {x: 0.00045651197, y: 1.295, z: -0.0003234148}
