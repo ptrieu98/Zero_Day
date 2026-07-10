@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4290496493493964}
   - component: {fileID: 33978926188593108}
   - component: {fileID: 23493627314639538}
+  - component: {fileID: 3079627970753982918}
   m_Layer: 0
   m_Name: SM_Prop_Crate_Large_01
   m_TagString: Untagged
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3079627970753982918
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147856548608730}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.80083644, y: 0.78901017, z: 1.456761}
+  m_Center: {x: -0.0040385425, y: 0.39450508, z: -0.32392377}
