@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4461839258737880}
   - component: {fileID: 33629849909615030}
   - component: {fileID: 23496675551728762}
+  - component: {fileID: 7447370202837893787}
   m_Layer: 0
   m_Name: SM_Prop_RubbishBin_03
   m_TagString: Untagged
@@ -87,6 +88,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7447370202837893787
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1458748755654478}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.7405102, y: 1.1158772, z: 1.0160251}
+  m_Center: {x: 0, y: 0.5579386, z: 0.23029524}
 --- !u!1 &1486588358974588
 GameObject:
   m_ObjectHideFlags: 0

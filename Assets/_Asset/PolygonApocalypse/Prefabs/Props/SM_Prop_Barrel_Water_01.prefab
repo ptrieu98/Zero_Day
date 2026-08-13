@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4273031220237424}
   - component: {fileID: 33793037142750178}
   - component: {fileID: 23976457894537956}
+  - component: {fileID: 8899816316513313782}
   m_Layer: 0
   m_Name: SM_Prop_Barrel_Water_01
   m_TagString: Untagged
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8899816316513313782
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617334352007710}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.75888914, y: 1.0497873, z: 0.78569484}
+  m_Center: {x: 0.0068356693, y: 0.52489364, z: 0.0015303046}

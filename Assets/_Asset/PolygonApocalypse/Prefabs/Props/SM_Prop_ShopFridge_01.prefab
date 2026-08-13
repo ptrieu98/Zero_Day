@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4220423280973938}
   - component: {fileID: 33274149835864766}
   - component: {fileID: 23690499719755118}
+  - component: {fileID: -8160648555240779320}
   m_Layer: 0
   m_Name: SM_Prop_ShopFridge_01
   m_TagString: Untagged
@@ -87,6 +88,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-8160648555240779320
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291397166752976}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.08373, y: 2.2930732, z: 0.9932991}
+  m_Center: {x: -0.08675289, y: 1.1465366, z: -0.034160897}
 --- !u!1 &1485412060050874
 GameObject:
   m_ObjectHideFlags: 0
@@ -98,6 +120,7 @@ GameObject:
   - component: {fileID: 4931008130481314}
   - component: {fileID: 33405242210226452}
   - component: {fileID: 23104011046835474}
+  - component: {fileID: 7788708270703081438}
   m_Layer: 0
   m_Name: SM_Prop_ShopFridge_01_Glass
   m_TagString: Untagged
@@ -173,3 +196,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7788708270703081438
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1485412060050874}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 3.7903893, y: 1.8589953, z: 1.0694311}
+  m_Center: {x: -0.13764703, y: 1.0154576, z: 0.879071}

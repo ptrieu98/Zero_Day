@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4198240305842238}
   - component: {fileID: 33878081509095948}
   - component: {fileID: 23632318943559646}
+  - component: {fileID: 3764162477221946213}
   m_Layer: 0
   m_Name: SM_Prop_TrashBag_05
   m_TagString: Untagged
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3764162477221946213
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199291695004738}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.6732641, y: 0.7201981, z: 0.6716564}
+  m_Center: {x: 0, y: 0.36009905, z: 0}

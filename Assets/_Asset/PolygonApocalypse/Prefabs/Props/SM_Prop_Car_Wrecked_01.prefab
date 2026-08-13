@@ -97,6 +97,7 @@ GameObject:
   - component: {fileID: 4479329250478198}
   - component: {fileID: 33971733054419254}
   - component: {fileID: 23768930284100986}
+  - component: {fileID: -5217216563177989858}
   m_Layer: 0
   m_Name: SM_Prop_Car_Wrecked_01
   m_TagString: Untagged
@@ -173,3 +174,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-5217216563177989858
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1572569093490736}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.172129, y: 1.2682892, z: 5.1610446}
+  m_Center: {x: 0, y: 0.59681684, z: 0}
